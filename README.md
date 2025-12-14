@@ -2,6 +2,9 @@
 
 💻 **Passionate Developer** | 🚀 Web Projects | 🧠 Always Learning
 
+![status](https://api.statusbadges.me/badge/status/1042030253826117642?simple=true)
+ ![vscode](https://api.statusbadges.me/badge/vscode/1042030253826117642) [![spotify](https://api.statusbadges.me/badge/spotify/1042030253826117642)](https://api.statusbadges.me/openspotify/1042030253826117642) ![playing](https://api.statusbadges.me/badge/playing/1042030253826117642) 
+
 ---
 
 ## 📊 GitHub Stats
