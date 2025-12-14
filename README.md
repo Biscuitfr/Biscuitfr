@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **biscuitfr**
+# 👋 Hi, I'm **BSC**
 
 💻 **Passionate Developer** | 🚀 Web Projects | 🧠 Always Learning
 
